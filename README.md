@@ -1,5 +1,5 @@
 # SmartBrain-api - v2
-Final project for Udemy course
+Final project for Udemy course using 'Knex.js' library for connecting to PostgreSQL
 
 1. Clone this repo
 2. Run `npm install`
@@ -8,4 +8,4 @@ Final project for Udemy course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+** Make sure you use PostgreSQL instead of mySQL for this code base.
