@@ -1,5 +1,5 @@
 # SmartBrain-api - v2
-Final project for Udemy course using 'Knex.js' library for connecting to PostgreSQL
+Final project for Udemy course using `knex.js` library for connecting to PostgreSQL
 
 1. Clone this repo
 2. Run `npm install`
